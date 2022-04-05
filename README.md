@@ -1,4 +1,4 @@
-### Hi, I'm Tresre 👋
+## Hi, I'm Tresre 👋
 I'm a web and server developer. I enjoy coding web-based projects as well as multiplayer projects for Minecraft: Java Edition.
 
 I have proficient knowledge in HTML, CSS, SK, and basic knowledge in JS.
