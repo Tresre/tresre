@@ -5,7 +5,7 @@ I have proficient knowledge in HTML, CSS, SK, and basic knowledge in JS.
 
 <a href="https://tresre.dev" target="_blank" rel="noopener noreferrer"><img alt="website" align="center" src="https://tresre.dev/assets/img/logo.png" style="width: 30px; height: 30px;">Website</a>
 <a href="https://tresre.dev/discord" target="_blank" rel="noopener noreferrer"><img alt="discord" align="center" src="https://tresre.dev/assets/img/discord.png" style="width: 30px; height: 30px;">Discord</a>
-<a href="https://twitter.com/tresre" target="_blank" rel="noopener noreferrer"><img alt="twitter" align="center" src="https://tresre.dev/assets/img/twitter.png" style="width: 30px; height: 30px;">Twitter</a>
+<a href="https://twitter.com/tresreee" target="_blank" rel="noopener noreferrer"><img alt="twitter" align="center" src="https://tresre.dev/assets/img/twitter.png" style="width: 30px; height: 30px;">Twitter</a>
 #
 
 <p align="center" style="text-align: center; margin: auto; overflow: hidden; width: 240px; height: 90px; border-radius: 500px;"><img width="500px" height="90px" scrolling="no" src="https://lanyard.cnrad.dev/api/225399479790993408?borderRadius=0px&idleMessage=Developing%20Something...&hideStatus=true" frameborder="0"></img></p>
