@@ -8,4 +8,4 @@ I have proficient knowledge in HTML, CSS, SK, and basic knowledge in JS.
 <a href="https://twitter.com/tresreee" target="_blank" rel="noopener noreferrer"><img alt="twitter" align="center" src="https://tresre.dev/assets/img/twitter.png" style="width: 42px; height: 42px;">Twitter</a>
 #
 
-<p align="center" style="text-align: center; margin: auto; overflow: hidden; width: 240px; height: 90px; border-radius: 500px;"><img width="500px" height="90px" scrolling="no" src="https://lanyard.cnrad.dev/api/225399479790993408?borderRadius=0px&idleMessage=Developing%20Something...&hideStatus=true" frameborder="0"></img></p>
+<p align="center" style="text-align: center; margin: auto; overflow: hidden; width: 240px; height: 90px; border-radius: 500px; object-fit: cover;"><img scrolling="no" src="https://lanyard.cnrad.dev/api/225399479790993408?borderRadius=0px&idleMessage=Developing%20Something...&hideStatus=true" frameborder="0"></img></p>
