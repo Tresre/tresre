@@ -7,4 +7,4 @@ I have proficient knowledge in HTML, CSS, SK, and basic knowledge in JS.
 <a href="https://tresre.dev/discord" target="_blank" rel="noopener noreferrer"><img align="center" src="discord.png" height="35px" width="35px">&nbsp;&nbsp;</a>
 <a href="https://twitter.com/tresreee" target="_blank" rel="noopener noreferrer"><img align="center" src="twitter.png" height="35px" width="35px">&nbsp;&nbsp;</a>
 #
-<p align="center" style="text-align: center; margin: auto;"><img scrolling="no" src="https://lanyard.cnrad.dev/api/225399479790993408?borderRadius=15px&idleMessage=Developing%20Something...&hideStatus=true" frameborder="0"></img></p>
+<p align="center" style="text-align: center; margin: auto;"><img width="40%" scrolling="no" src="https://lanyard.cnrad.dev/api/225399479790993408?borderRadius=15px&idleMessage=Developing%20Something...&hideStatus=true" frameborder="0"></img></p>
